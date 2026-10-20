@@ -3,3 +3,8 @@ __pycache__/
 .pytest_cache/
 .ruff_cache/
 *.egg-info/
+
+# not part of the assignment deliverables
+opencode.jsonc
+scripts/tree_demo.py
+
